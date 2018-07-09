@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "605406524589",
+    "firebase_url": "https://alexsandrauas.firebaseio.com",
+    "project_id": "alexsandrauas",
+    "storage_bucket": "alexsandrauas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605406524589:android:fa16d2473ad4870a",
+        "android_client_info": {
+          "package_name": "com.example.alex.alexcasanovauas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605406524589-uff2934dhtq3sq6h0lgbfogn16spsh16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2Ka97eYpEHX5VgYKSC6CGYyC-p0PwDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
